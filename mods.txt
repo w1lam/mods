@@ -118,7 +118,7 @@ https://cdn.modrinth.com/data/DyTvM1dv/versions/k5WzkdqI/AmbientEnvironment-fabr
 https://cdn.modrinth.com/data/Xy8aRQKS/versions/OFrZj632/physics-mod-3.1.11-mc-1.21.9-fabric.jar
 https://cdn.modrinth.com/data/OoOVj3J3/versions/36LE1BlG/BetterAnimationsCollection-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/MPCX6s5C/versions/BTsmdH8u/notenoughanimations-fabric-1.10.3.1-mc1.21.10.jar
-https://cdn.modrinth.com/data/DWuwk8aA/versions/isqB0VKT/optiboxes-1.6%2B1.21.9-fabric.jar
+https://cdn.modrinth.com/data/DWuwk8aA/versions/XZ7StQ1i/optiboxes-1.7%2B1.21.10-fabric.jar
 https://cdn.modrinth.com/data/4I1XuqiY/versions/RBKKgBqz/entity_model_features_1.21.9-fabric-3.0.3.jar
 https://cdn.modrinth.com/data/JuksLGBQ/versions/novKhTZ1/optigui-2.3.0-beta.8%2B1.21.9.jar
 https://cdn.modrinth.com/data/BVzZfTc1/versions/dP1ZqaGp/entity_texture_features-7.0.4-1.21.9-fabric.jar
