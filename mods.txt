@@ -1,4 +1,4 @@
-# version:0.33
+# version:0.34
 
 #UI
 https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar
@@ -22,6 +22,7 @@ https://cdn.modrinth.com/data/QQXAdCzh/versions/qGBUbFtb/Ping-Wheel-1.11.1-fabri
 https://cdn.modrinth.com/data/9wv7LuMc/versions/SoNaBiWT/ImmersiveUI-FABRIC-0.3.5%2B1.21.9.jar
 https://cdn.modrinth.com/data/m0oRwcZx/versions/ISzhlRRl/CameraOverhaul-v2.0.4-fabric%2Bmc%5B1.21.5-plus%5D.jar
 https://cdn.modrinth.com/data/RLzHAoZe/versions/hbF3Vb1o/Resourcify%20%281.21.9-fabric%29-1.7.4.jar
+https://cdn.modrinth.com/data/h3XWIuzM/versions/UKZaPb5K/dark-loading-screen-1.6.17.jar
 
 #QOL FEATURES
 https://cdn.modrinth.com/data/Fb4jn8m6/versions/gSIijzTg/FallingTree-1.21.9-1.21.9.2.jar
