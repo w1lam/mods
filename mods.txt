@@ -1,4 +1,4 @@
-# version:0.36
+# version:0.37
 
 #UI
 https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar
@@ -20,7 +20,6 @@ https://cdn.modrinth.com/data/REfW2AEX/versions/9Ipd7bhg/InvMove-0.9.1%2B1.21.10
 https://cdn.modrinth.com/data/ZX66K16c/versions/45l1mfiY/PickUpNotifier-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/QQXAdCzh/versions/qGBUbFtb/Ping-Wheel-1.11.1-fabric-1.21.10.jar
 https://cdn.modrinth.com/data/9wv7LuMc/versions/SoNaBiWT/ImmersiveUI-FABRIC-0.3.5%2B1.21.9.jar
-https://cdn.modrinth.com/data/m0oRwcZx/versions/ISzhlRRl/CameraOverhaul-v2.0.4-fabric%2Bmc%5B1.21.5-plus%5D.jar
 https://cdn.modrinth.com/data/RLzHAoZe/versions/hbF3Vb1o/Resourcify%20%281.21.9-fabric%29-1.7.4.jar
 https://cdn.modrinth.com/data/h3XWIuzM/versions/UKZaPb5K/dark-loading-screen-1.6.17.jar
 
@@ -33,7 +32,6 @@ https://cdn.modrinth.com/data/9hx3AbJM/versions/1XIM8tgh/EasyMagic-v21.10.0%2Bmc
 https://cdn.modrinth.com/data/kfqD1JRw/versions/Yrnr31L3/VisualWorkbench-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/OZBR5JT5/versions/RRPRJ01x/EasyAnvils-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/HqKoXaXz/versions/7PLAV0BE/hardcorerevival-fabric-1.21.9-21.9.1.jar
-https://cdn.modrinth.com/data/bRFWnJ87/versions/YvGQHPv3/animal_feeding_trough-1.2.0%2B1.21.10.jar
 https://cdn.modrinth.com/data/Dk6su9JN/versions/HZ1B81ON/CutThrough-v21.10.0%2Bmc1.21.10-Fabric.jar
 
 #NEW THANGS
@@ -53,7 +51,6 @@ https://cdn.modrinth.com/data/8pcjMDgj/versions/cLD3Rekx/TradingPost-v21.10.0%2B
 https://cdn.modrinth.com/data/jorDmSKv/versions/sVV4E3nf/MagnumTorch-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/bHJp2GRg/versions/O5RuGvLA/NetherChested-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/XZNI4Cpy/versions/z9q8nGMl/toms_storage_fabric-1.21.10-2.6.0.jar
-https://cdn.modrinth.com/data/J81TRJWm/versions/kLTIGlRD/konkrete_fabric_1.9.13_MC_1.21.10.jar
 https://cdn.modrinth.com/data/CVT4pFB2/versions/2YEyhNcZ/melody_fabric_1.0.13_MC_1.21.10.jar
 https://cdn.modrinth.com/data/FzyTKtVF/versions/AQewXsXn/Stoneworks-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/DhSSvaxs/versions/uYEdErec/beautify-1.7.0%2B1.21.9.jar
@@ -62,6 +59,7 @@ https://cdn.modrinth.com/data/TG1cHkRf/versions/JneCPwh1/enchanted-vertical-slab
 https://cdn.modrinth.com/data/9rlXSyLg/versions/IR6GwDZc/cratedelight-25.10.11-1.21.7-fabric.jar
 https://cdn.modrinth.com/data/LTTvOp5L/versions/tJMUnXsq/storagedelight-25.10.13-1.21.9-fabric.jar
 https://cdn.modrinth.com/data/F9Vuwq3S/versions/vBukXIwE/ImmersiveOres-1.21.10-0.2.jar
+https://cdn.modrinth.com/data/bRFWnJ87/versions/YvGQHPv3/animal_feeding_trough-1.2.0%2B1.21.10.jar
 
 #APIS AND LIBS
 https://cdn.modrinth.com/data/P7dR8mSH/versions/qNm2IWMn/fabric-api-0.135.0%2B1.21.10.jar
@@ -82,6 +80,7 @@ https://cdn.modrinth.com/data/aTaCgKLW/versions/2OisNxPN/silk-all-1.11.4.jar
 https://cdn.modrinth.com/data/RH2KUdKJ/versions/VtMzU9l0/ShatterLib-FABRIC-0.6.0.5%2B1.21.9.jar
 https://cdn.modrinth.com/data/lhGA9TYQ/versions/qkIZZKUH/architectury-18.0.5-fabric.jar
 https://cdn.modrinth.com/data/s3dmwKy5/versions/ebzLmGB6/GlitchCore-fabric-1.21.10-21.10.0.2.jar
+https://cdn.modrinth.com/data/J81TRJWm/versions/kLTIGlRD/konkrete_fabric_1.9.13_MC_1.21.10.jar
 
 #PERFORMANCE
 https://cdn.modrinth.com/data/AANobbMI/versions/VTidoe6U/sodium-fabric-0.7.2%2Bmc1.21.10.jar
