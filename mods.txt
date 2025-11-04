@@ -1,4 +1,4 @@
-# version:0.34
+# version:0.35
 
 #UI
 https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar
@@ -48,7 +48,7 @@ https://cdn.modrinth.com/data/GmwLse2I/versions/ZoPfy971/mcw-fences-1.2.0-mc1.21
 https://cdn.modrinth.com/data/IKARgflD/versions/TSePnzLa/DiagonalFences-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/FQgc8dib/versions/9DjXc6Ql/DiagonalWalls-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/oOi0CKes/versions/4LfQGJnU/DiagonalWindows-v21.10.0%2Bmc1.21.10-Fabric.jar
-https://cdn.modrinth.com/data/MCnBYP0b/versions/uS9WXkkR/tru.e-ending-v1.1.4b-1.21.2-5.jar
+https://cdn.modrinth.com/data/MCnBYP0b/versions/BWvn4Jtr/tru.e-ending-1.1.4d.jar
 https://cdn.modrinth.com/data/8pcjMDgj/versions/cLD3Rekx/TradingPost-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/jorDmSKv/versions/sVV4E3nf/MagnumTorch-v21.10.0%2Bmc1.21.10-Fabric.jar
 https://cdn.modrinth.com/data/bHJp2GRg/versions/O5RuGvLA/NetherChested-v21.10.0%2Bmc1.21.10-Fabric.jar
