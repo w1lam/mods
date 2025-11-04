@@ -1,4 +1,4 @@
-# version:0.35
+# version:0.36
 
 #UI
 https://cdn.modrinth.com/data/ETlrkaYF/versions/wXhtL4fb/cwb-fabric-3.0.0%2Bmc1.21.5.jar
@@ -66,7 +66,7 @@ https://cdn.modrinth.com/data/F9Vuwq3S/versions/vBukXIwE/ImmersiveOres-1.21.10-0
 #APIS AND LIBS
 https://cdn.modrinth.com/data/P7dR8mSH/versions/qNm2IWMn/fabric-api-0.135.0%2B1.21.10.jar
 https://cdn.modrinth.com/data/9s6osm5g/versions/otNNBWZy/cloth-config-20.0.148-fabric.jar
-https://cdn.modrinth.com/data/XaDC71GB/versions/xJFiGgq5/lithostitched-1.5.0-fabric-1.21.9.jar
+https://cdn.modrinth.com/data/XaDC71GB/versions/OHVYggvo/lithostitched-1.5.1-fabric-1.21.9.jar
 https://cdn.modrinth.com/data/Ha28R6CL/versions/i6MmXDwA/fabric-language-kotlin-1.13.6%2Bkotlin.2.2.20.jar
 https://cdn.modrinth.com/data/OsZiaDHq/versions/w3HjbqwI/CreativeCore_FABRIC_v2.14.7_mc1.21.9.jar
 https://cdn.modrinth.com/data/e0M1UDsY/versions/A9BCeuWm/collective-1.21.9-8.8.jar
