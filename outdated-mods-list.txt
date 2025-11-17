@@ -1,0 +1,4 @@
+# version:0.1
+
+#fabric:inventory-sorter-configurable@latest
+https://cdn.modrinth.com/data/5ibSyLAz/versions/BBwBmvDO/inventorysorter-fabric-2.1.0-beta.1%2Bmc1.21.9.jar
