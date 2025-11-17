@@ -10,7 +10,7 @@ https://cdn.modrinth.com/data/YWZbIwtC/versions/tcK7IZDC/currentgamemusictrack-1
 https://cdn.modrinth.com/data/gqRXDo8B/versions/X1zmZMDV/villagernames-1.21.9-8.3.jar
 https://cdn.modrinth.com/data/pZ2wrerK/versions/ykpWcmVC/emotecraft-fabric-for-MC1.21.9-3.1.0-b.build.124.jar
 https://cdn.modrinth.com/data/o5fhgLeQ/versions/F3MkMT55/cursors_extended-fabric-4.0.2%2B1.21.9.jar
-https://cdn.modrinth.com/data/5ibSyLAz/versions/BBwBmvDO/inventorysorter-fabric-2.1.0-beta.1%2Bmc1.21.9.jar
+https://cdn.modrinth.com/data/F7wXag4i/versions/gXENH8Ec/inventorymanagement-1.6.0%2B1.21.9.jar
 https://cdn.modrinth.com/data/nvQzSEkH/versions/qC0qUqL5/Jade-1.21.9-Fabric-20.0.5.jar
 https://cdn.modrinth.com/data/EsAfCjCV/versions/8sbiz1lS/appleskin-fabric-mc1.21.9-3.0.7.jar
 https://cdn.modrinth.com/data/j6yrZogB/versions/q5bkTxNG/smoothgui-0.1.4.jar

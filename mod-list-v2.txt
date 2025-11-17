@@ -11,7 +11,7 @@ fabric:zoomify@latest
 fabric:xaeros-world-map@latest
 fabric:ping-wheel@latest
 fabric:invmove@latest
-fabric:inventory-sorter-configurable
+fabric:inventory-management@latest
 fabric:resourcify@latest
 fabric:immersive-ui@latest
 fabric:modmenu@latest
