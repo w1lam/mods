@@ -118,7 +118,7 @@ fabric:better-animations-collection@latest
 fabric:not-enough-animations@latest
 fabric:optiboxes@latest
 fabric:entity-model-features@latest
-fabric:entity-texture-features-translation@latest
+fabric:entitytexturefeatures@latest
 fabric:optigui@latest
 fabric:fusion@latest
 fabric:3dskinlayers@latest
