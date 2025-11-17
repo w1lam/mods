@@ -1,0 +1,5 @@
+# version:0.1
+
+fabric:sodium
+fabric:fabric-api
+fabric:lithium
