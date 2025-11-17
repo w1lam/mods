@@ -112,7 +112,7 @@ fabric:visuality@latest
 fabric:particular-reforged@latest
 fabric:fallingleaves@latest
 fabric:bettergrassify@latest
-fabric:fabric:ambient-environment@latest
+fabric:ambient-environment@latest
 fabric:physicsmod@latest
 fabric:better-animations-collection@latest
 fabric:not-enough-animations@latest
