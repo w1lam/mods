@@ -57,7 +57,7 @@ fabric:nether-chested@latest
 fabric:stoneworks@latest
 fabric:trading-post@latest
 fabric:animal_feeding_trough@latest
-fabric:beautify@latest
+fabric:beautify-refabricated@latest
 fabric:crate-delight@latest
 
 #APIs AND LIBs
