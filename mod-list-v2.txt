@@ -120,7 +120,7 @@ fabric:optiboxes@latest
 fabric:entity-model-features@latest
 fabric:entitytexturefeatures@latest
 fabric:optigui@latest
-fabric:fusion@latest
+fabric:fusion-connected-textures@latest
 fabric:3dskinlayers@latest
 fabric:serene-seasons@latest
 fabric:weaponmaster@latest
