@@ -11,7 +11,7 @@ fabric:zoomify@latest
 fabric:xaeros-world-map@latest
 fabric:ping-wheel@latest
 fabric:invmove@latest
-fabric:inventory-sorter-configurable@latest
+fabric:inventory-sorter-configurable
 fabric:resourcify@latest
 fabric:immersive-ui@latest
 fabric:modmenu@latest
@@ -50,7 +50,7 @@ fabric:macaws-windows@latest
 fabric:storage-delight@latest
 fabric:toms-storage@latest
 fabric:true-ending@latest
-fabric:farmers-delight-refabricated@latest
+fabric:farmers-delight@latest
 fabric:immersive-ores@latest
 fabric:magnum-torch@latest
 fabric:nether-chested@latest
