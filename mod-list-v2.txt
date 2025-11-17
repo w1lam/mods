@@ -50,7 +50,7 @@ fabric:macaws-windows@latest
 fabric:storage-delight@latest
 fabric:toms-storage@latest
 fabric:true-ending@latest
-fabric:farmers-delight@latest
+fabric:farmers-delight-refabricated@latest
 fabric:immersive-ores@latest
 fabric:magnum-torch@latest
 fabric:nether-chested@latest
