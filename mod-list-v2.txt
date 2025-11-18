@@ -61,6 +61,7 @@ fabric:beautify-refabricated@latest
 fabric:crate-delight@latest
 
 #APIs AND LIBs
+fabric:silk@latest
 fabric:melody@latest
 fabric:fabric-api@latest
 fabric:cloth-config@latest
