@@ -1,4 +1,4 @@
-# version:0.1
+# version:0.2
 
 #UI
 fabric:villager-names-serilum@latest
@@ -126,6 +126,7 @@ fabric:3dskinlayers@latest
 fabric:serene-seasons@latest
 fabric:weaponmaster@latest
 fabric:spawn-animations@latest
+fabric:first-person-model@latest
 
 #SOUND
 fabric:dripsounds@latest
