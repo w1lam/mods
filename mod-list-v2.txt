@@ -129,7 +129,6 @@ fabric:spawn-animations@latest
 fabric:first-person-model@latest
 
 #SOUND
-fabric:dripsounds@latest
 fabric:sound-physics-remastered@latest
 fabric:sound@latest
 fabric:ambientsounds@latest
