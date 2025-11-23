@@ -59,6 +59,9 @@ fabric:trading-post@latest
 fabric:animal_feeding_trough@latest
 fabric:beautify-refabricated@latest
 fabric:crate-delight@latest
+fabric:attributes@latest
+fabric:skills@latest
+fabric:default-skill-trees@latest
 
 #APIs AND LIBs
 fabric:silk@latest
@@ -105,6 +108,8 @@ fabric:distanthorizons@latest
 fabric:terralith@latest
 fabric:dungeons-and-taverns@latest
 fabric:better-village@latest
+fabric:betterend@latest
+fabric:mes-moogs-end-structures@latest
 
 #VISUALS
 fabric:lambdynamiclights@latest
