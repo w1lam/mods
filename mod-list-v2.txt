@@ -100,7 +100,6 @@ fabric:cull-leaves@latest
 fabric:scalablelux@latest
 fabric:packet-fixer@latest
 fabric:krypton@latest
-fabric:modernfix@latest
 
 #RENDER DISTANCE
 fabric:distanthorizons@latest
