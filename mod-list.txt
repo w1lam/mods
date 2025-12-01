@@ -110,7 +110,6 @@ fabric:distanthorizons@latest
 fabric:terralith@latest
 fabric:dungeons-and-taverns@latest
 fabric:better-village@latest
-fabric:betterend@latest
 fabric:mes-moogs-end-structures@latest
 
 #VISUALS
