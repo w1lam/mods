@@ -1,6 +1,6 @@
 #SERVER SIDE LIST
 
-# version:0.1.0
+# version:0.1.1
 
 #SERVER UTILS
 fabric:chunky@latest
@@ -81,6 +81,7 @@ fabric:architectury-api@latest
 fabric:glitchcore@latest
 fabric:konkrete@latest
 fabric:cardinal-components-api@latest
+fabric:moogs-structure-lib@latest
 
 #PERFORMANCE
 fabric:lithium@latest
