@@ -23,7 +23,6 @@ fabric:immersive-hotbar@latest
 fabric:pick-up-notifier@latest
 fabric:emotecraft@latest
 fabric:fancymenu@latest
-fabric:minihub@latest
 
 #QOL
 fabric:fallingtree@latest
