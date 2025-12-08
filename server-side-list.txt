@@ -1,6 +1,4 @@
-#SERVER SIDE LIST
-
-# version:0.1.1
+# version:0.1.2
 
 #SERVER UTILS
 fabric:chunky@latest
@@ -82,6 +80,8 @@ fabric:glitchcore@latest
 fabric:konkrete@latest
 fabric:cardinal-components-api@latest
 fabric:moogs-structure-lib@latest
+fabric:fzzy-config@latest
+fabric:malilib@latest
 
 #PERFORMANCE
 fabric:lithium@latest
@@ -91,6 +91,7 @@ fabric:scalablelux@latest
 fabric:packet-fixer@latest
 fabric:krypton@latest
 fabric:servercore@latest
+fabric:debugify@latest
 
 #RENDER DISTANCE
 fabric:distanthorizons@latest
@@ -105,6 +106,7 @@ fabric:mes-moogs-end-structures@latest
 fabric:serene-seasons@latest
 fabric:weaponmaster@latest
 fabric:spawn-animations@latest
+fabric:subtle-effects@latest
 
 #SOUND
 fabric:sound-physics-remastered@latest

@@ -1,4 +1,4 @@
-# version:0.1.4
+# version:0.1.5
 
 #UI
 fabric:villager-names-serilum@latest
@@ -23,6 +23,7 @@ fabric:immersive-hotbar@latest
 fabric:pick-up-notifier@latest
 fabric:emotecraft@latest
 fabric:fancymenu@latest
+fabric:minihub@latest
 
 #QOL
 fabric:fallingtree@latest
@@ -88,6 +89,8 @@ fabric:glitchcore@latest
 fabric:konkrete@latest
 fabric:cardinal-components-api@latest
 fabric:moogs-structure-lib@latest
+fabric:fzzy-config@latest
+fabric:malilib@latest
 
 #PERFORMANCE
 fabric:sodium-extra@latest
@@ -104,6 +107,7 @@ fabric:cull-leaves@latest
 fabric:scalablelux@latest
 fabric:packet-fixer@latest
 fabric:krypton@latest
+fabric:debugify@latest
 
 #RENDER DISTANCE
 fabric:distanthorizons@latest
@@ -123,9 +127,8 @@ fabric:fallingleaves@latest
 fabric:bettergrassify@latest
 fabric:ambient-environment@latest
 fabric:physicsmod@latest
-fabric:better-animations-collection@latest
 fabric:not-enough-animations@latest
-fabric:optiboxes@latest
+fabric:skyboxify@latest
 fabric:entity-model-features@latest
 fabric:entitytexturefeatures@latest
 fabric:optigui@latest
@@ -136,6 +139,7 @@ fabric:weaponmaster@latest
 fabric:spawn-animations@latest
 fabric:first-person-model@latest
 fabric:cameraoverhaul@latest
+fabric:subtle-effects@latest
 
 #SOUND
 fabric:sound-physics-remastered@latest
