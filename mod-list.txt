@@ -1,4 +1,10 @@
-# version:0.1.5
+# version:0.1.6
+
+#FIXES
+fabric:debugify@latest
+fabric:packet-fixer@latest
+fabric:attributefix@latest
+fabric:modelfix@latest
 
 #UI
 fabric:villager-names-serilum@latest
@@ -104,9 +110,9 @@ fabric:c2me-fabric@latest
 fabric:moreculling@latest
 fabric:cull-leaves@latest
 fabric:scalablelux@latest
-fabric:packet-fixer@latest
 fabric:krypton@latest
-fabric:debugify@latest
+fabric:dynamic-fps@latest
+fabric:better-block-entities@latest
 
 #RENDER DISTANCE
 fabric:distanthorizons@latest
