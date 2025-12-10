@@ -85,6 +85,7 @@ fabric:cardinal-components-api@latest
 fabric:moogs-structure-lib@latest
 fabric:fzzy-config@latest
 fabric:malilib@latest
+fabric:prickle@latest
 
 #PERFORMANCE
 fabric:lithium@latest
