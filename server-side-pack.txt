@@ -1,4 +1,7 @@
-# version:0.1.3
+# Mod Pack Name: ServerSidePack
+# Mod Pack Version: 0.1.3
+# McVersion: 1.21.10
+# Loader: fabric
 
 #FIXES
 fabric:attributefix@latest
