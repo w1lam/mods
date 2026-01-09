@@ -1,119 +1,119 @@
-# Mod Pack Name: ServerSidePack
-# Mod Pack Version: 0.1.3
+# Name: ServerSidePack
+# Version: 0.1.3
 # McVersion: 1.21.10
 # Loader: fabric
 
 #FIXES
-fabric:attributefix@latest
+attributefix
 
 #SERVER UTILS
-fabric:chunky@latest
-fabric:spark@latest
+chunky
+spark
 
 #UI
-fabric:villager-names-serilum@latest
-fabric:appleskin@latest
-fabric:xaeros-world-map@latest
-fabric:ping-wheel@latest
-fabric:invmove@latest
-fabric:inventory-management@latest
-fabric:jade@latest
-fabric:smooth-gui@latest
-fabric:pick-up-notifier@latest
-fabric:emotecraft@latest
+villager-names-serilum
+appleskin
+xaeros-world-map
+ping-wheel
+invmove
+inventory-management
+jade
+smooth-gui
+pick-up-notifier
+emotecraft
 
 #QOL
-fabric:fallingtree@latest
-fabric:do-a-barrel-roll@latest
-fabric:veinminer-enchantment@latest
-fabric:veinminer@latest
-fabric:easy-anvils@latest
-fabric:easy-magic@latest
-fabric:visual-workbench@latest
-fabric:hardcore-revival@latest
-fabric:cut-through@latest
+fallingtree
+do-a-barrel-roll
+veinminer-enchantment
+veinminer
+easy-anvils
+easy-magic
+visual-workbench
+hardcore-revival
+cut-through
 
 #NEW THANGS
-fabric:diagonal-fences@latest
-fabric:diagonal-walls@latest
-fabric:diagonal-windows@latest
-fabric:elytra-trims@latest
-fabric:enchanted-vertical-slabs@latest
-fabric:macaws-bridges@latest
-fabric:macaws-doors@latest
-fabric:macaws-fences-and-walls@latest
-fabric:macaws-lights-and-lamps@latest
-fabric:macaws-stairs@latest
-fabric:macaws-trapdoors@latest
-fabric:macaws-windows@latest
-fabric:storage-delight@latest
-fabric:toms-storage@latest
-fabric:true-ending@latest
-fabric:farmers-delight-refabricated@latest
-fabric:immersive-ores@latest
-fabric:magnum-torch@latest
-fabric:nether-chested@latest
-fabric:stoneworks@latest
-fabric:trading-post@latest
-fabric:animal_feeding_trough@latest
-fabric:beautify-refabricated@latest
-fabric:crate-delight@latest
-fabric:attributes@latest
-fabric:skills@latest
-fabric:default-skill-trees@latest
-fabric:travelersbackpack@latest
+diagonal-fences
+diagonal-walls
+diagonal-windows
+elytra-trims
+enchanted-vertical-slabs
+macaws-bridges
+macaws-doors
+macaws-fences-and-walls
+macaws-lights-and-lamps
+macaws-stairs
+macaws-trapdoors
+macaws-windows
+storage-delight
+toms-storage
+true-ending
+farmers-delight-refabricated
+immersive-ores
+magnum-torch
+nether-chested
+stoneworks
+trading-post
+animal_feeding_trough
+beautify-refabricated
+crate-delight
+attributes
+skills
+default-skill-trees
+travelersbackpack
 
 #APIs AND LIBs
-fabric:silk@latest
-fabric:melody@latest
-fabric:fabric-api@latest
-fabric:cloth-config@latest
-fabric:lithostitched@latest
-fabric:fabric-language-kotlin@latest
-fabric:creativecore@latest
-fabric:collective@latest
-fabric:mru@latest
-fabric:yacl@latest
-fabric:balm@latest
-fabric:cicada@latest
-fabric:player-animation-library@latest
-fabric:library-ferret@latest
-fabric:puzzles-lib@latest
-fabric:forge-config-api-port@latest
-fabric:octo-lib@latest
-fabric:architectury-api@latest
-fabric:glitchcore@latest
-fabric:konkrete@latest
-fabric:cardinal-components-api@latest
-fabric:moogs-structure-lib@latest
-fabric:fzzy-config@latest
-fabric:malilib@latest
-fabric:prickle@latest
+silk
+melody
+fabric-api
+cloth-config
+lithostitched
+fabric-language-kotlin
+creativecore
+collective
+mru
+yacl
+balm
+cicada
+player-animation-library
+library-ferret
+puzzles-lib
+forge-config-api-port
+octo-lib
+architectury-api
+glitchcore
+konkrete
+cardinal-components-api
+moogs-structure-lib
+fzzy-config
+malilib
+prickle
 
 #PERFORMANCE
-fabric:lithium@latest
-fabric:ferrite-core@latest
-fabric:c2me-fabric@latest
-fabric:scalablelux@latest
-fabric:packet-fixer@latest
-fabric:krypton@latest
-fabric:servercore@latest
-fabric:debugify@latest
+lithium
+ferrite-core
+c2me-fabric
+scalablelux
+packet-fixer
+krypton
+servercore
+debugify
 
 #RENDER DISTANCE
-fabric:distanthorizons@latest
+distanthorizons
 
 #WORLD GEN
-fabric:terralith@latest
-fabric:dungeons-and-taverns@latest
-fabric:better-village@latest
-fabric:mes-moogs-end-structures@latest
+terralith
+dungeons-and-taverns
+better-village
+mes-moogs-end-structures
 
 #VISUALS
-fabric:serene-seasons@latest
-fabric:weaponmaster@latest
-fabric:spawn-animations@latest
-fabric:subtle-effects@latest
+serene-seasons
+weaponmaster
+spawn-animations
+subtle-effects
 
 #SOUND
-fabric:sound-physics-remastered@latest
+sound-physics-remastered
