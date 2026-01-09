@@ -1,5 +1,5 @@
-# Mod Pack Name: SwagPack
-# Mod Pack Version: 0.1.7
+# Name: SwagPack
+# Version: 0.1.8
 # McVersion: 1.21.10
 # Loader: fabric
 
@@ -143,7 +143,7 @@ skyboxify
 entity-model-features
 entitytexturefeatures
 optigui
-fusion-connected-textures
+continuity
 3dskinlayers
 serene-seasons
 weaponmaster
