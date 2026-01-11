@@ -1,5 +1,5 @@
 # Name: SwagPack
-# Version: 0.1.8
+# Version: 0.1.9
 # McVersion: 1.21.10
 # Loader: fabric
 
@@ -28,6 +28,7 @@ jade
 reeses-sodium-options
 smooth-gui
 dynamiccrosshair
+dynamiccrosshaircompat
 immersive-hotbar
 pick-up-notifier
 emotecraft
@@ -36,20 +37,16 @@ better-advancements
 
 #QOL
 fallingtree
-do-a-barrel-roll
 veinminer-enchantment
 veinminer
-easy-anvils
-easy-magic
-visual-workbench
 hardcore-revival
 cut-through
 
-#NEW THANGS
+#BUILDING
+rechiseled
 diagonal-fences
 diagonal-walls
 diagonal-windows
-elytra-trims
 enchanted-vertical-slabs
 macaws-bridges
 macaws-doors
@@ -59,16 +56,22 @@ macaws-stairs
 macaws-trapdoors
 macaws-windows
 storage-delight
+stoneworks
+beautify-refabricated
+
+
+#NEW THANGS
+do-a-barrel-roll
+elytra-trims
 toms-storage
 true-ending
 farmers-delight-refabricated
+more-delight
 immersive-ores
 magnum-torch
 nether-chested
-stoneworks
 trading-post
 animal_feeding_trough
-beautify-refabricated
 crate-delight
 attributes
 skills
@@ -119,6 +122,7 @@ scalablelux
 krypton
 dynamic-fps
 better-block-entities
+clumps
 
 #RENDER DISTANCE
 distanthorizons
@@ -128,8 +132,12 @@ terralith
 dungeons-and-taverns
 better-village
 mes-moogs-end-structures
+incendium
 
 #VISUALS
+easy-anvils
+easy-magic
+visual-workbench
 lambdynamiclights
 iris
 visuality
@@ -152,6 +160,7 @@ first-person-model
 cameraoverhaul
 subtle-effects
 armor-3d
+explosive-enhancement
 
 #SOUND
 sound-physics-remastered
