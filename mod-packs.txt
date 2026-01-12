@@ -1,2 +1,0 @@
-SwagPack#https://raw.githubusercontent.com/w1lam/mods/refs/heads/main/swag-pack.txt
-ServerSidePack#https://raw.githubusercontent.com/w1lam/mods/refs/heads/main/server-side-pack.txt

@@ -1,13 +1,12 @@
-# Name: SwagPack
-# Version: 0.1.9
+# Name: SwagPackClienSide
+# Version: 0.0.1
 # McVersion: 1.21.10
 # Loader: fabric
-# Description: Mod Pack that mainly adds visual and small immersion and building mods.
+# Description: Client Side only version of SwagPack
 
 #FIXES
 debugify
 packet-fixer
-attributefix
 modelfix
 
 #UI
@@ -15,12 +14,8 @@ current-game-music-track
 minecraft-cursor
 cubes-without-borders
 dark-loading-screen
-appleskin
 zoomify
-xaeros-world-map
-ping-wheel
 invmove
-inventory-management
 resourcify
 immersive-ui
 modmenu
@@ -31,68 +26,13 @@ dynamiccrosshair
 dynamiccrosshaircompat
 immersive-hotbar
 pick-up-notifier
-emotecraft
-fancymenu
 better-advancements
-
-#QOL
-fallingtree
-veinminer-enchantment
-veinminer
-cut-through
-
-#BUILDING
-rechiseled
-diagonal-fences
-diagonal-walls
-diagonal-windows
-enchanted-vertical-slabs
-macaws-bridges
-macaws-doors
-macaws-fences-and-walls
-macaws-lights-and-lamps
-macaws-stairs
-macaws-trapdoors
-macaws-windows
-stoneworks
-beautify-refabricated
-
-#EQUIPMENT
-elytra-trims
-immersive-ores
-travelersbackpack
-
-#GAMEPLAY
-do-a-barrel-roll
-attributes
-skills
-default-skill-trees
-better-combat
-hardcore-revival
-true-ending
-
-#STORAGE
-toms-storage
-nether-chested
-crate-delight
-storage-delight
-
-#FARMING AND FOOD
-farmers-delight-refabricated
-more-delight
-
-#STUFF
-magnum-torch
-trading-post
-transmog
-animal_feeding_trough
 
 #APIs AND LIBs
 silk
 melody
 fabric-api
 cloth-config
-lithostitched
 fabric-language-kotlin
 creativecore
 collective
@@ -130,22 +70,11 @@ scalablelux
 krypton
 dynamic-fps
 better-block-entities
-clumps
 
 #RENDER DISTANCE
 distanthorizons
 
-#WORLD GEN
-terralith
-dungeons-and-taverns
-better-village
-mes-moogs-end-structures
-incendium
-
 #VISUALS
-easy-anvils
-easy-magic
-visual-workbench
 lambdynamiclights
 iris
 visuality
@@ -163,13 +92,11 @@ continuity
 3dskinlayers
 serene-seasons
 weaponmaster
-spawn-animations
 first-person-model
 cameraoverhaul
 subtle-effects
 armor-3d
 explosive-enhancement
-villager-names-serilum
 
 #SOUND
 sound-physics-remastered

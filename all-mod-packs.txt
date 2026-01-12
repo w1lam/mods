@@ -1,0 +1,3 @@
+SwagPack@https://raw.githubusercontent.com/w1lam/mods/refs/heads/main/swag-pack.txt
+SwagPackServerSide@https://raw.githubusercontent.com/w1lam/mods/refs/heads/main/swag-pack-serverside.txt
+SwagPackClientSide@https://raw.githubusercontent.com/w1lam/mods/refs/heads/main/swag-pack-clientside.txt
