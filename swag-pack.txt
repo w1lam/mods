@@ -32,7 +32,6 @@ dynamiccrosshaircompat
 immersive-hotbar
 pick-up-notifier
 emotecraft
-fancymenu
 better-advancements
 
 #QOL
@@ -113,6 +112,8 @@ moogs-structure-lib
 fzzy-config
 malilib
 prickle
+supermartijn642s-core-lib
+supermartijn642s-config-lib
 
 #PERFORMANCE
 sodium-extra
@@ -160,6 +161,7 @@ entity-model-features
 entitytexturefeatures
 optigui
 continuity
+fusion
 3dskinlayers
 serene-seasons
 weaponmaster

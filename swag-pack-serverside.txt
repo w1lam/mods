@@ -101,6 +101,8 @@ moogs-structure-lib
 fzzy-config
 malilib
 prickle
+supermartijn642s-core-lib
+supermartijn642s-config-lib
 
 #PERFORMANCE
 lithium
