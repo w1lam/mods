@@ -114,6 +114,7 @@ malilib
 prickle
 supermartijn642s-core-lib
 supermartijn642s-config-lib
+geckolib
 
 #PERFORMANCE
 sodium-extra
@@ -166,12 +167,12 @@ fusion-connected-textures
 serene-seasons
 weaponmaster
 spawn-animations
-first-person-model
 cameraoverhaul
 subtle-effects
 armor-3d
 explosive-enhancement
 villager-names-serilum
+punchy-fpa
 
 #SOUND
 sound-physics-remastered
