@@ -53,6 +53,7 @@ moogs-structure-lib
 fzzy-config
 malilib
 prickle
+geckolib
 
 #PERFORMANCE
 sodium-extra
@@ -92,11 +93,11 @@ continuity
 3dskinlayers
 serene-seasons
 weaponmaster
-first-person-model
 cameraoverhaul
 subtle-effects
 armor-3d
 explosive-enhancement
+punchy-fpa
 
 #SOUND
 sound-physics-remastered
