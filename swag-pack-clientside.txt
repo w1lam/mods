@@ -1,4 +1,4 @@
-# Name: SwagPackClienSide
+# Name: SwagPackClientSide
 # Version: 0.0.1
 # McVersion: 1.21.10
 # Loader: fabric
