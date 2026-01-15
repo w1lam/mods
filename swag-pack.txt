@@ -161,7 +161,7 @@ entity-model-features
 entitytexturefeatures
 optigui
 continuity
-fusion
+fusion-connected-textures
 3dskinlayers
 serene-seasons
 weaponmaster
