@@ -7,17 +7,14 @@
 #FIXES
 debugify
 packet-fixer
-modelfix
 
 #UI
 current-game-music-track
 minecraft-cursor
 cubes-without-borders
-dark-loading-screen
 zoomify
 invmove
 resourcify
-immersive-ui
 modmenu
 jade
 reeses-sodium-options
@@ -30,7 +27,6 @@ better-advancements
 
 #APIs AND LIBs
 silk
-melody
 fabric-api
 cloth-config
 fabric-language-kotlin
@@ -39,20 +35,12 @@ collective
 mru
 yacl
 balm
-cicada
 player-animation-library
-library-ferret
 puzzles-lib
 forge-config-api-port
-octo-lib
 architectury-api
 glitchcore
-konkrete
-cardinal-components-api
-moogs-structure-lib
 fzzy-config
-malilib
-prickle
 geckolib
 
 #PERFORMANCE
@@ -91,7 +79,6 @@ entitytexturefeatures
 optigui
 continuity
 3dskinlayers
-serene-seasons
 weaponmaster
 cameraoverhaul
 subtle-effects
