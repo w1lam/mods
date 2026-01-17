@@ -1,14 +1,15 @@
 # Name: SwagPackClientSide
-# Version: 0.0.1
+# Env: Client
+# Version: 0.0.2
 # McVersion: 1.21.11
 # Loader: fabric
 # Description: Client Side only version of SwagPack
 
-# FIXES #
+#FIXES
 debugify
 packet-fixer
 
-# UI #
+#UI
 current-game-music-track
 minecraft-cursor
 cubes-without-borders
@@ -25,7 +26,7 @@ immersive-hotbar
 pick-up-notifier
 better-advancements
 
-# APIs AND LIBs #
+#APIs AND LIBs
 silk
 fabric-api
 cloth-config
@@ -43,7 +44,7 @@ glitchcore
 fzzy-config
 geckolib@5.4
 
-# PERFORMANCE #
+#PERFORMANCE
 sodium-extra
 sodium
 sodium-shadowy-path-blocks
@@ -60,10 +61,10 @@ krypton
 dynamic-fps
 better-block-entities
 
-# RENDER DISTANCE #
+#RENDER DISTANCE
 distanthorizons
 
-# VISUALS #
+#VISUALS
 lambdynamiclights
 iris
 visuality
@@ -86,7 +87,7 @@ armor-3d
 explosive-enhancement
 punchy-fpa
 
-# SOUND #
+#SOUND
 sound-physics-remastered
 sound
 ambientsounds

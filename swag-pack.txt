@@ -1,4 +1,5 @@
 # Name: SwagPack
+# Env: Client and Server
 # Version: 0.1.9
 # McVersion: 1.21.10
 # Loader: fabric
