@@ -1,6 +1,6 @@
 # Name: SwagPack
 # Env: Client and Server
-# Version: 0.1.9
+# Version: 0.2.0
 # McVersion: 1.21.10
 # Loader: fabric
 # Description: Mod Pack that mainly adds visual and small immersion and building mods.
@@ -10,6 +10,8 @@ debugify
 packet-fixer
 attributefix
 modelfix
+no-resource-pack-warnings
+yeetus-experimentus
 
 #UI
 current-game-music-track

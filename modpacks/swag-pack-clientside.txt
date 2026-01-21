@@ -1,6 +1,6 @@
 # Name: SwagPackClientSide
 # Env: Client
-# Version: 0.0.2
+# Version: 0.0.3
 # McVersion: 1.21.11
 # Loader: fabric
 # Description: Client Side only version of SwagPack
@@ -8,6 +8,8 @@
 #FIXES
 debugify
 packet-fixer
+no-resource-pack-warnings
+yeetus-experimentus
 
 #UI
 current-game-music-track
